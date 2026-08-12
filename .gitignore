@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+### from my project 
+.venv/
+.uv/
+__pycache__/
+*.pyc
+data/
+*.csv
+| Out-File -FilePath .gitignore -Append -Encoding utf8
